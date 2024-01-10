@@ -1,7 +1,5 @@
 # 👋 Hello World, I'm Sajad!
 
-![Banner Image](link-to-your-banner-image)
-
 I'm a passionate Software Engineer and Telecommunications Specialist from [Your Location]. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools
@@ -30,18 +28,6 @@ I'm a passionate Software Engineer and Telecommunications Specialist from [Your 
 ![Quality of Service](https://img.shields.io/badge/-Quality%20of%20Service-black?style=flat-square)
 ![Wireless Networks](https://img.shields.io/badge/-Wireless%20Networks-black?style=flat-square)
 ![Mobile Network (5G+/6G)](https://img.shields.io/badge/-Mobile%20Network%20(5G%2B%2F6G)-black?style=flat-square)
-
-## 🚀 Projects
-
-- [Project 1](link-to-project-1): Brief description or tagline.
-- [Project 2](link-to-project-2): Brief description or tagline.
-- [Project 3](link-to-project-3): Brief description or tagline.
-
-Check out more on [my portfolio website](link-to-portfolio)!
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Let's Connect
 
