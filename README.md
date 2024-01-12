@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Sajad!
+# 👋 Hello
 
 I currently hold the following roles and interests:
 
