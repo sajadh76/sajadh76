@@ -3,7 +3,7 @@
 I currently hold the following roles and interests:
 
   1. Intern in machine learning and systems research at Nokia Bell-Labs in Paris, France.
-  2. Final-year student studying Telecommunication Engineering at Politecnic University of Milan.
+  2. Final-year student studying Telecommunication Engineering at Politecnic University of Milan, Italy.
   3. Enthusiast of offroad activities, outdoor camping, and cooking.
   4. Passionate about sport motorcycles and fighter jets.
 
