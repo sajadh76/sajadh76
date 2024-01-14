@@ -9,4 +9,4 @@ I currently hold the following roles and interests:
 
 I haven't been sharing my projects on GitHub, but I've decided to break this habit. Moving forward, I'll be actively updating my GitHub profile, alongside my LinkedIn, where you can find more about me.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sajadh76/), and drop me an email at [sajad.hamzenejadi@mail.polimi.it](mailto:sajad.hamzenejadi@mail.polimi.it).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sajadh76/), and drop me an email at [sajad.hamzenejadi@mail.polimi.it](mailto:sajad.hamzenejadi@mail.polimi.it). You can also find a list of my publications in my [GoogleScholar](https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en) page.
