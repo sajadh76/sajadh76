@@ -27,6 +27,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sajadh76/
 <!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
+<!--   <a href="https://https://httpd.apache.org//" target="_blank" rel="noreferrer"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="Apache" width="100" height="60"/>
+  </a>
 </div>
 
 <!-- Programming Languages -->
