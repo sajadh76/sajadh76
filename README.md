@@ -1,86 +1,34 @@
-  # 👋 Welcome!
-
-I currently hold the following roles and interests:
-
-  1. Intern in machine learning and systems research at **Nokia Bell-Labs** in Paris, France
-  2. Final-year student studying Telecommunication Engineering at **Politecnic University of Milan**, Italy
-  3. Enthusiast of offroad activities, outdoor camping, and cooking :)
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sajadh76/), and drop me an email at [sajad.hamzenejadi@mail.polimi.it](mailto:sajad.hamzenejadi@mail.polimi.it). You can also find a list of my publications in my [GoogleScholar](https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en) page.
-
-# Skills
-
-<!-- Version Control System -->
-<h3 align="left">Version Control System:</h3>
-<div align="left">
-<!--   <a href="[https://www.gnu.org/software/bash/](https://git-scm.com/)" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" alt="Git" width="90" height="45"/>
-  </a>
+<!-- Intro -->
+<p align="center">
+  <h2 align="center"> Hi 👋, My name is  <b>Sajad</b> </h2>
+  <h3 align="center"> Currently I am: </b> </h3>
+  <div align="center">Intern in machine learning and systems research at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
+  <div align="center">Final-year student studying Telecommunication Engineering at <strong>Politecnic University of Milan</strong>, Italy</div>
+  <div align="center"> Enthusiast of offroad activities, outdoor camping, and cooking :)
+  <br>
+  <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | <a href="mailto:sajad.hamzenejadi@mail.polimi.it">sajad.hamzenejadi@mail.polimi.it</a> | <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">GoogleScholar</a>
 </div>
 
-<!-- System Administration & Scripting -->
-<h3 align="left">System Administration & Scripting:</h3>
-<div align="left">
-<!--   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
-  </a>
-<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-<!--   <a href="https://https://httpd.apache.org//" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="Apache" width="100" height="60"/>
-  </a>
-</div>
+  </div>
 
-<!-- Programming Languages -->
-<h3 align="left">Programming Languages:</h3>
-<div align="left">
-<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+<!-- Skill Icons -->
+<h3 align="center"> Skills: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=git,py,cpp,docker" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=aws,ansible,nix,linux" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=bash,tensorflow,pytorch,sklearn" />
+    </br>
   </a>
-<!--   <a href="https://www.python.org" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-</div>
 
-<!-- Cloud & Containerization -->
-<h3 align="left">Cloud & Containerization:</h3>
-<div align="left">
-<!--   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-  </a>
-<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-</div>
+  <div align="center"><strong>Version Control System:</strong> Git</div>
+  <div align="center"><strong>Programming Skills:</strong> Python, C++</div>
+  <div align="center"><strong>Cloud & Containerization:</strong> Docker, AWS</div>
+  <div align="center"><strong>Automation & Configuration Management:</strong> Ansible, NixOS</div>
+  <div align="center"><strong>System Administration & Scripting:</strong> Linux, Apache, Bash Scripting</div>
+  <div align="center"><strong>Machine Learning & Deep Learning Tools:</strong> TensorFlow, Keras, Pandas, Scikit-learn, PyTorch, TensorRT</div>
+  <div align="center"><strong>Telecommunications:</strong> TCP/IP, Routing, Switching, Cybersecurity, Wireless networks, Mobile Networks (4G/5G)</div>
+</p>
 
-<!-- Automation & Configuration Management -->
-<h3 align="left">Automation & Configuration Management:</h3>
-<div align="left">
-<!--   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="50" height="50"/>
-  </a>
-<!--   <a href="https://nixos.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" alt="nixos" width="60" height="65"/>
-</div>
-
-<!-- Machine Learning & Deep Learning Tools -->
-<h3 align="left">Machine Learning & Deep Learning Tools:</h3>
-<div align="left">
-<!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="pandas" width="95" height="50"/>
-  </a>
-<!--   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
-<!--   <a href="https://keras.io/" target="_blank" rel="noreferrer"> -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="60" height="60"/>
-  </a>
-<!--   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
-  </a>
-<!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> -->
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-<!--   <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> -->
-    <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2020/04/tensorrt-logo.png" alt="tensorrt" width="90" height="50"/>
-</div>
