@@ -15,11 +15,11 @@
 <h3 align="center"> Skills: </h3>
 <p align="center">
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,docker" />
+    <img src="https://skillicons.dev/icons?i=git,py,cpp,docker&theme=light" />
     </br>
-    <img src="https://skillicons.dev/icons?i=aws,ansible,nix,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,ansible,nix,linux&theme=light" />
     </br>
-    <img src="https://skillicons.dev/icons?i=bash,tensorflow,pytorch,sklearn" />
+    <img src="https://skillicons.dev/icons?i=bash,tensorflow,pytorch,sklearn&theme=light" />
     </br>
   </a>
 
