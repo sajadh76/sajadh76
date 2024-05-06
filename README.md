@@ -14,12 +14,14 @@
 <!-- Skill Icons -->
 <h3 align="center"> Skills: </h3>
 <p align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,docker&theme=light" />
+  <a href="https://go-skill-icons.vercel.app">  
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,docker&theme=light" />
     </br>
-    <img src="https://skillicons.dev/icons?i=aws,ansible,nix,linux&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,ansible,nix,linux&theme=light" />
     </br>
-    <img src="https://skillicons.dev/icons?i=bash,tensorflow,pytorch,sklearn&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,tensorflow,pytorch,sklearn&theme=light" />
+    </br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib&theme=light" />
     </br>
   </a>
 
