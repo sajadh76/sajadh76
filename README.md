@@ -24,13 +24,5 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib&theme=light" />
     </br>
   </a>
-
-  <div align="center"><strong>Version Control System:</strong> Git</div>
-  <div align="center"><strong>Programming Skills:</strong> Python, C++</div>
-  <div align="center"><strong>Cloud & Containerization:</strong> Docker, AWS</div>
-  <div align="center"><strong>Automation & Configuration Management:</strong> Ansible, NixOS</div>
-  <div align="center"><strong>System Administration & Scripting:</strong> Linux, Apache, Bash Scripting</div>
-  <div align="center"><strong>Machine Learning & Deep Learning Tools:</strong> TensorFlow, Keras, Pandas, Scikit-learn, PyTorch, TensorRT</div>
-  <div align="center"><strong>Telecommunications:</strong> TCP/IP, Routing, Switching, Cybersecurity, Wireless networks, Mobile Networks (4G/5G)</div>
 </p>
 
