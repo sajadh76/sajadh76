@@ -4,7 +4,6 @@
   <h3 align="center"> A software engineer skilled in machine learning with +3 years of R&D experience  </b> </h3>
   <div align="center"> Ex-software and systems research intern at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
   <div align="center"> Final-semester student studying Telecommunication Engineering at <strong>Politecnic University of Milan</strong>, Italy</div>
-  <div align="center"> Enthusiast of offroad activities, outdoor camping, and cooking :)
   <br>
   <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">GoogleScholar</a> | <a href="mailto:sajad.hamzenejadi@mail.polimi.it">sajad.hamzenejadi@mail.polimi.it</a>
 </div>
