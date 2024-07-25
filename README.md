@@ -21,7 +21,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib&theme=light" /><br>
   </a>
 </p>
-<br>
 
 <!-- Certificates -->
 <h3 align="center"> Some of my certificates </h3>
