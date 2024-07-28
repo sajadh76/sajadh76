@@ -24,8 +24,14 @@
 
 <!-- Certificates -->
 <h3 align="center"> Some of my certificates </h3>
-<p align="center">
+<div align="center">
+    <div><strong>Security</strong></div>
     <a href="https://coursera.org/share/368cc3df8047791e0c2b27162d8702b4" style="color:black; text-decoration:none;">Cryptography I</a><br>
+    <br>
+    <div><strong>Dev</strong></div>
+    <a href="https://coursera.org/share/fff8664bdcfcbfb26d0455493a30094d" style="color:black; text-decoration:none; font-weight:bold;">Python Essentials for MLOps</a><br>
     <a href="https://coursera.org/share/ac420561d38e9ebc8bbbd53f321282f8" style="color:black; text-decoration:none; font-weight:bold;">Google IT Automation with Python</a><br>
+    <br>
+    <div><strong>AI/ML</strong></div>
     <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a>
 </div>
