@@ -33,5 +33,8 @@
     <a href="https://coursera.org/share/ac420561d38e9ebc8bbbd53f321282f8" style="color:black; text-decoration:none; font-weight:bold;">Google IT Automation with Python</a><br>
     <br>
     <div><strong>AI/ML</strong></div>
-    <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a>
+    <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a><br>
+    <br>  
+    <div><strong>Management/Leadership</strong></div>
+    <a href="https://coursera.org/share/7b209eac8ebd57fbf9b1887fdce9c149" style="color:black; text-decoration:none;">Strategic Management</a>
 </div>
