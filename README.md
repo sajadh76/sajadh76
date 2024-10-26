@@ -20,6 +20,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,jenkins,ansible,nix,linux&theme=light" /><br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cuda,huggingface,tensorflow,pytorch&theme=light" /><br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br>
+<!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
   </a>
 </p>
 
