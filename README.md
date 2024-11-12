@@ -42,3 +42,9 @@
     <a href="https://coursera.org/share/ec6e69d4abfb2e84e9c3a3a444ec6f40" style="color:black; text-decoration:none;">Negotiation: Strategies and Skills</a>
 
 </div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadh76&theme=light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+</div>
