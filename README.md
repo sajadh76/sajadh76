@@ -31,6 +31,7 @@
     <a href="https://coursera.org/share/368cc3df8047791e0c2b27162d8702b4" style="color:black; text-decoration:none;">Cryptography I</a><br>
     <br>
     <div><strong>Dev</strong></div>
+    <a href="https://coursera.org/share/f5d027153dceec509641f29e3e49d3b7" style="color:black; text-decoration:none; font-weight:bold;">DevOps, DataOps, MLOps</a><br>
     <a href="https://coursera.org/share/fff8664bdcfcbfb26d0455493a30094d" style="color:black; text-decoration:none; font-weight:bold;">Python Essentials for MLOps</a><br>
     <a href="https://coursera.org/share/ac420561d38e9ebc8bbbd53f321282f8" style="color:black; text-decoration:none; font-weight:bold;">Google IT Automation with Python</a><br>
     <br>
