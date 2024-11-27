@@ -38,7 +38,8 @@
     <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a><br>
     <br>  
     <div><strong>Management/Leadership</strong></div>
-    <a href="https://coursera.org/share/7b209eac8ebd57fbf9b1887fdce9c149" style="color:black; text-decoration:none;">Strategic Management</a><br>
-    <a href="https://coursera.org/share/ec6e69d4abfb2e84e9c3a3a444ec6f40" style="color:black; text-decoration:none;">Negotiation: Strategies and Skills</a>
+    <a href="https://coursera.org/share/aa34241f7eb0ef713d8dd872f1b05bf0" style="color:black; text-decoration:none;">Agile Leadership Professional Certificate</a><br>
+    <a href="https://coursera.org/share/ec6e69d4abfb2e84e9c3a3a444ec6f40" style="color:black; text-decoration:none;">Negotiation: Strategies and Skills</a> <br>
+    <a href="https://coursera.org/share/7b209eac8ebd57fbf9b1887fdce9c149" style="color:black; text-decoration:none;">Strategic Management</a>
 
 </div>
