@@ -37,6 +37,7 @@
     <br>
     <div><strong>AI/ML</strong></div>
     <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a><br>
+    <a href="https://drive.google.com/file/d/1XoifYxYClmiy7scbVIZJKoxiSD2QRRdW/view?usp=sharing" style="color:black; text-decoration:none;">Human-AI Collaboration</a><br>
     <br>  
     <div><strong>Management/Leadership</strong></div>
     <a href="https://coursera.org/share/aa34241f7eb0ef713d8dd872f1b05bf0" style="color:black; text-decoration:none;">Agile Leadership Professional Certificate</a><br>
