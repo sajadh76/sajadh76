@@ -7,7 +7,7 @@
   <div> MSc degree in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
   <div>
     <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | 
-    <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a> | 
+    <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
 <br>
