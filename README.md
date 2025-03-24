@@ -8,7 +8,6 @@
   <div>
     <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a> | 
-    <a href="mailto:sajad.hamzenejadi@mail.polimi.it">sajad.hamzenejadi@mail.polimi.it</a>
   </div>
 </div>
 <br>
