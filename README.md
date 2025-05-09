@@ -4,7 +4,7 @@
   <h3>A software engineer skilled in machine learning with +3 years of R&D experience</h3>
   <div>PhD candidate in Information Systems at <strong>University of Geneva</strong> in Geneva, Switzerland</div>
   <div>Ex-software and systems research intern at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
-  <div> MSc degree in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
+  <div> MSc gradute in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
   <div>
     <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a>
