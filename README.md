@@ -1,6 +1,6 @@
 <!-- Intro -->
 <div align="center">
-  <h2>Hi 👋, My name is <b>Sajad</b></h2>
+  <h2>Hello Hello:) My name is <b>Sajad</b></h2>
   <h3>A software engineer skilled in machine learning with +3 years of R&D experience</h3>
   <div>PhD candidate in Information Systems at <strong>University of Geneva</strong> in Geneva, Switzerland</div>
   <div>Ex-software and systems research intern at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
