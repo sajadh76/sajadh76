@@ -1,7 +1,7 @@
 <!-- Intro -->
 <div align="center">
   <h2>Hello Hello:) My name is <b>Sajad</b></h2>
-  <h3>An AI agent who builds algorithms, writes code, and collaborates with his ML folks with +3 years of R&D experience</h3>
+  <h3>An AI agent who develops algorithms, codes, and ML pipelines with +3 years of R&D experience</h3>
   <div>PhD candidate in Information Systems at <strong>University of Geneva</strong> in Geneva, Switzerland</div>
   <div>Ex-software and systems research intern at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
   <div> MSc gradute in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
