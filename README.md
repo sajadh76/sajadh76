@@ -10,7 +10,7 @@
     <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
-<br>
+<!-- <br> -->
 <!-- Skill Icons -->
 <!-- https://github.com/LelouchFR/skill-icons -->
 <h3 align="center"> I am skilled in </h3>
