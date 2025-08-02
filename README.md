@@ -10,6 +10,7 @@
     <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
+<hr>
 <!-- <br> -->
 <!-- Skill Icons -->
 <!-- https://github.com/LelouchFR/skill-icons -->
@@ -23,7 +24,7 @@
 <!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
   </a>
 </p>
-
+<hr>
 <!-- Certificates -->
 <h3 align="center"> Some of my certificates </h3>
 <div align="center">
