@@ -15,10 +15,9 @@
 <h3 align="center"> I am skilled in </h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">  
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,jenkins,ansible,nix,linux&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cuda,huggingface,tensorflow,pytorch&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,githubcopilot,claude,leetcode,py,cpp,wireshark,vmwareworkstation&theme=light" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,jenkins,ansible,nix,linux,bash,googlecolab,kaggle,jupyter&theme=light" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br>
 <!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
   </a>
 </p>
