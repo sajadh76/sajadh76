@@ -12,7 +12,7 @@
 </div>
 <!-- Skill Icons -->
 <!-- https://github.com/LelouchFR/skill-icons -->
-<h3 align="center"> I am skilled in </h3>
+<h3 align="center"> I have worked with </h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">  
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,githubcopilot,claude,leetcode,py,cpp&theme=light" /><br>
