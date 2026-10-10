@@ -2,10 +2,11 @@
 <div align="center">
   <!-- <img src="https://github.com/sajadh76/sajadh76/blob/main/vatan.jpg" alt="VATAN" width="200" /> -->
   <h3>I'm Sajad, I develop algorithms, codes, and ML pipelines with +4 years of R&D experience</h3>
-  <div>PhD candidate in Information Systems at <strong>University of Geneva</strong> in Geneva, Switzerland</div>
+  <!-- <div>PhD candidate in Information Systems at <strong>University of Geneva</strong> in Geneva, Switzerland</div>
   <div>Ex-machine learning and systems research intern at <strong>Nokia Bell-Labs</strong> in Paris, France</div>
-  <div> MSc gradute in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
+  <div> MSc gradute in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div> -->
   <div>
+    <a href="https://sajadh76.github.io/">Personal Website</a> | 
     <a href="https://www.linkedin.com/in/sajadh76/">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=KvSyQNEAAAAJ&hl=en">Google Scholar</a>
   </div>
