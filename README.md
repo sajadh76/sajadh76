@@ -25,7 +25,7 @@
   </a>
 </p>
 <!-- Certificates -->
-<h3 align="center"> Some of my certificates </h3>
+<!-- <h3 align="center"> Some of my certificates </h3>
 <div align="center">
     <div><strong>Security</strong></div>
     <a href="https://coursera.org/share/368cc3df8047791e0c2b27162d8702b4" style="color:black; text-decoration:none;">Cryptography I</a><br>
@@ -43,4 +43,4 @@
     <a href="https://coursera.org/share/ec6e69d4abfb2e84e9c3a3a444ec6f40" style="color:black; text-decoration:none;">Negotiation: Strategies and Skills</a> <br>
     <a href="https://coursera.org/share/7b209eac8ebd57fbf9b1887fdce9c149" style="color:black; text-decoration:none;">Strategic Management</a>
 
-</div>
+</div> -->
